@@ -30,13 +30,14 @@ Featuring a dark, Slytherin-inspired aesthetic, the website combines an interact
 ```text
 malfoid-quiz/
 ├── index.html
-├── css/
-│   └── style.css
+├── style.css
 ├── js/
 │   ├── questions.js
 │   └── app.js
+<!--
 └── assets/
     └── images/
+-->
 ```
 
 ## 🚀 Getting Started
